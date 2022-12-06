@@ -18,7 +18,7 @@
         "chai-http": "^4.3.0",
         "compression": "^1.7.4",
         "cors": "^2.8.5",
-        "express": "^4.17.1",
+        "express": "^4.18.2",
         "js-beautify": "^1.10.3",
         "mocha": "^7.1.0",
         "morgan": "^1.9.1",
